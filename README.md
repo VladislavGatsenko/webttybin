@@ -1,1 +1,0 @@
-webtty bin for debian
