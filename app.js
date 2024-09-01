@@ -14988,7 +14988,7 @@ parcelRequire = (function (e, r, n, t) {
 		  p.run(n);
 		});
 		var b = function (e, n) {
-			return fetch("https://up.10kb.site/" + e, {
+			return fetch("https://10kb-site.iotserv.ru/" + e, {
 			  method: "POST",
 			  body: n,
 			})
